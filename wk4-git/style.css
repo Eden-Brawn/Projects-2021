@@ -67,3 +67,8 @@
     background-color: yellow;
     border: solid red;
 }
+
+.header {
+    display: block;
+    background-color: blue;
+}
