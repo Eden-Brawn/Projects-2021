@@ -1,0 +1,8 @@
+.part1 > h2 {
+    color: red;
+}
+
+.part1 > p {
+    color: white;
+    background-color: black;
+}
