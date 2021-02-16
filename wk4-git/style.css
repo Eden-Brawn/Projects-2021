@@ -25,9 +25,13 @@
 }
 
 .csym019 {
-    display: inline;
+    display: block;
+    float: left;
+    width: 50%;
 }
 
 .csym015 {
-    display: inline;
+    display: block;
+    float: left;
+    width: 50%;
 }
