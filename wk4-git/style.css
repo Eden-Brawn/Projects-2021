@@ -72,3 +72,25 @@
     display: block;
     background-color: blue;
 }
+.left {
+    display: block;
+    float: left;
+    width: 25%;
+    background-color: yellow;
+}
+.middle {
+    display: block;
+    float: left;
+    width: 50%;
+    background-color: darkblue;
+}
+.right {
+    display: block;
+    float: left;
+    width: 25%;
+    background-color: lightgreen;
+}
+.footer {
+    display: block;
+    background-color: darkgreen;
+}
