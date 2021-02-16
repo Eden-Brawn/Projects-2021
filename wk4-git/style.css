@@ -37,3 +37,32 @@
     width: 50%;
     background-color: yellow;
 }
+
+.one {
+    display: block;
+    float: left;
+    width: 49%;
+    background-color: red;
+    border: solid yellow;
+}
+.two {
+    display: block;
+    float: left;
+    width: 49%;
+    background-color: orangered;
+    border: solid orange;
+}
+.three {
+    display: block;
+    float: left;
+    width: 49%;
+    background-color: orange;
+    border: solid orangered;
+}
+.four {
+    display: block;
+    float: left;
+    width: 49%;
+    background-color: yellow;
+    border: solid red;
+}
