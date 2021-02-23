@@ -1,3 +1,18 @@
 body {
     display: grid;
 }
+header{
+    background-color: blue;
+}
+nav{
+    background-color: yellow;
+}
+main{
+    background-color: darkblue;
+}
+aside{
+    background-color: lightgreen;
+}
+footer{
+    background-color: darkgreen;
+}
