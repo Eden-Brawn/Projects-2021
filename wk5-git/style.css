@@ -1,10 +1,11 @@
 body {
     display: grid;
     grid-template-rows: autos;
-    grid-template-columns: 20% 60% 20%;
-    grid-template-areas: "header header header"
-                            "nav main main"
-                            "footer footer footer";
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-areas: "header header header header header"
+                            "nav nav nav nav nav"
+                            "main main main aside aside"
+                            "footer footer footer footer footer";
 }
 header{
     background-color: blue;
