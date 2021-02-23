@@ -3,8 +3,7 @@ body {
     grid-template-rows: autos;
     grid-template-columns: 20% 60% 20%;
     grid-template-areas: "header header header"
-                            "nav nav nav"
-                            "main main aside"
+                            "nav main main"
                             "footer footer footer";
 }
 header{
