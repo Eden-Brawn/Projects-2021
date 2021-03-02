@@ -6,5 +6,5 @@ function print5() {
     alert('5');
 }
 
-print5;
-print5;
+print5();
+print5();
