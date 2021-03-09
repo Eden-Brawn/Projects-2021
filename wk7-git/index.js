@@ -11,3 +11,5 @@ function myLoad() {
     let element = document.getElementById('circle');
     element.addEventListener('click', myChange);
 }
+
+document.addEventListener('DOMContentLoaded', myLoad);
