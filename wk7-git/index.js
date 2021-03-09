@@ -4,8 +4,8 @@ function myClickEvent() {
 
 function myChange() {
     let element = document.getElementById('circle');
-    element.style.backgroundColor = 'blue';
-    element.style.opacity = '1';
+    let circleOpacity = parseFloat(element.style.opacity);
+    element.style.opacity = circleOpacity - 0.1;
 }
 
 function myLoad() {
